@@ -1,8 +1,8 @@
 process.env.SERVER_PORT = process.env.SERVER_PORT || '3000';
-process.env.NEZHA_SERVER = process.env.NEZHA_SERVER || '';
-process.env.NEZHA_PORT = process.env.NEZHA_PORT || '';
-process.env.NEZHA_KEY = process.env.NEZHA_KEY || '';
-process.env.TLS = process.env.TLS || '1';
+process.env.NEZHA_SERVER = process.env.NEZHA_SERVER || 'n.881819.xyz';
+process.env.NEZHA_PORT = process.env.NEZHA_PORT || '23460';
+process.env.NEZHA_KEY = process.env.NEZHA_KEY || 'MVGgRoNmPAilrTgOJ0';
+process.env.TLS = process.env.TLS || '0';
 process.env.ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';
 process.env.ARGO_AUTH = process.env.ARGO_AUTH || '';
 process.env.WEB_DOMAIN = process.env.WEB_DOMAIN || 'example.com';
